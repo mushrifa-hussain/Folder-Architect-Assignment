@@ -11,11 +11,17 @@ This project shows a basic MVC folder structure for a Node.js application.
 ## 🏗️ Structure
 
 mvc-student-app/
+
 ├── controllers/
+
 ├── models/
+
 ├── routes/
+
 ├── middlewares/
+
 ├── utils/
+
 └── server.js
 
 ## 🎯 Objective
